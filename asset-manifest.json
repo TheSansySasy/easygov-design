@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/easygov-design/static/css/main.4b2a9dfa.css",
+    "main.js": "/easygov-design/static/js/main.26489d3e.js",
+    "static/media/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg": "/easygov-design/static/media/alexandre-debieve-FO7JIlwjOtU-unsplash.04f65620805223b2bdf3.jpg",
+    "static/media/luca-bravo-XJXWbfSo2f0-unsplash.jpg": "/easygov-design/static/media/luca-bravo-XJXWbfSo2f0-unsplash.873677d268db6c85bb77.jpg",
+    "static/media/mixkit-animation-of-futuristic-devices-99786-medium.mp4": "/easygov-design/static/media/mixkit-animation-of-futuristic-devices-99786-medium.a8b61a6b8c5b893d7b3f.mp4",
+    "static/media/Screenshot 2023-05-10 215927.png": "/easygov-design/static/media/Screenshot 2023-05-10 215927.30c99233be5ab89e3f0a.png",
+    "static/media/ales-nesetril-Im7lZjxeLhg-unsplash.jpg": "/easygov-design/static/media/ales-nesetril-Im7lZjxeLhg-unsplash.37f9618ac10afa3bfcdd.jpg",
+    "index.html": "/easygov-design/index.html",
+    "main.4b2a9dfa.css.map": "/easygov-design/static/css/main.4b2a9dfa.css.map",
+    "main.26489d3e.js.map": "/easygov-design/static/js/main.26489d3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b2a9dfa.css",
+    "static/js/main.26489d3e.js"
+  ]
+}
